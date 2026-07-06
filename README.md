@@ -65,6 +65,9 @@ jupyter notebook notebook/icu_analysis.ipynb
 ## Author
 
 **Kesheka Edupuganti**
+
 Data Analyst & BI Specialist | Loma Linda, CA
+
 ekesheka1010@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/kesheka-edupuganti-b53a96293/)
