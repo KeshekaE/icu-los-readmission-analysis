@@ -38,13 +38,21 @@ Python, pandas, scipy, SQLite, Tableau
 
 ## How to Run
 
-\`\`\`bash
+Clone the repo and install dependencies:
+
+```
 git clone https://github.com/KeshekaE/icu-los-readmission-analysis
 cd icu-los-readmission-analysis
 pip install pandas scipy matplotlib jupyter
-# Follow data/README.md to download the MIMIC-IV demo files into data/
+```
+
+Then download the MIMIC-IV demo files by following the instructions in `data/README.md`, placing them in the `data/` folder.
+
+Finally, launch the notebook:
+
+```
 jupyter notebook notebook/icu_analysis.ipynb
-\`\`\`
+```
 
 ---
 
