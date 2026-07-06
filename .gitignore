@@ -1,4 +1,0 @@
-data/*.csv
-*.db
-notebook/*.pkl
-notebook/__pycache__/
